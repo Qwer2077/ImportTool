@@ -1,2 +1,2 @@
 # importTool
-importing the items
+importing the items from excel
